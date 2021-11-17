@@ -1,0 +1,11 @@
+/* General contents of the webpage. */
+body {
+    background-color: lightskyblue;
+}
+
+/* HTML classes. */
+.main {
+    background-color: lightyellow;
+    margin: 10px;
+    padding: 2px 10px;
+}
