@@ -1,3 +1,5 @@
+_The Mr. Terminal Website HTML project is currently postponed. **mr-terminal.github.io/Mr-Terminal/** is the sucessor to this project._
+
 # The Mr. Terminal Website
 My website for anyone to look at, and grab at! This is a passion project of mine to build upon.
 
